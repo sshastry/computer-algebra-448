@@ -5,6 +5,8 @@
 * [MidtermExam+Solutions.pdf](http://sshastry.github.io/computer-algebra-448/MidtermExam+Solutions.pdf)
 * [FinalExam+Solutions.pdf](http://sshastry.github.io/computer-algebra-448/FinalExam+Solutions.pdf)
 
+The above links will render the pdf files in this repository in your browser. Explanation [here](http://webapps.stackexchange.com/questions/48061/can-i-trick-github-into-displaying-the-pdf-in-the-browser-instead-of-downloading).
+
 This repository contains the lecture notes and exams (with solutions) for a course I taught in Fall 2011. The topics covered were
 
 * Structural induction (notably induction over trees)
