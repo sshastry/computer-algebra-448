@@ -1,6 +1,10 @@
 
 ## Computer Algebra
 
+* [ComputerAlgebra.pdf (course lecture notes)](http://sshastry.github.io/computer-algebra-448/ComputerAlgebra.pdf)
+* [MidtermExam+Solutions.pdf](http://sshastry.github.io/computer-algebra-448/MidtermExam+Solutions.pdf)
+* [FinalExam+Solutions.pdf](http://sshastry.github.io/computer-algebra-448/FinalExam+Solutions.pdf)
+
 This repository contains the lecture notes and exams (with solutions) for a course I taught in Fall 2011. The topics covered were
 
 * Structural induction (notably induction over trees)
@@ -18,7 +22,7 @@ This repository contains the lecture notes and exams (with solutions) for a cour
     * Myhill-Nerode theorem characterizing regular languages
     * pumping lemma
 * Groups and Monoids
-    * ideals of monoids
+    * ideals in monoids
     * ascending chain condition
     * congruences, quotients, and the associated universal mapping property
     * presentations by generators and relations
